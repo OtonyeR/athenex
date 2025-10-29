@@ -4,6 +4,12 @@
 It helps users manage product listings, categories, quantities, and prices seamlessly — even without internet access.
 
 ---
+## 📱 App Demo
+
+Appetize.io -> https://appetize.io/app/b_ms2titx7pmsot6xjl5aewcqqxm
+
+Google Drive -> https://drive.google.com/file/d/1di4F3srgSly2EXQY7EU_88J_J0fbI4Cv/view?usp=sharing
+---
 
 ## ✨ Features
 
@@ -42,6 +48,12 @@ It helps users manage product listings, categories, quantities, and prices seaml
 | Image Handling | image_picker |
 | Notifications | fluttertoast |
 | Utilities | path, path_provider |
+
+---
+
+## 📁APK File
+
+Google Drive -> https://drive.google.com/file/d/1rIUMqdXFJuCUcGUo_HfKleo27Fq9M0N_/view?usp=sharing
 
 ---
 
